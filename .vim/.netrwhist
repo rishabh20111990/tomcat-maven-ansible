@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/etc/ansible/roles/ansible-tomcat'
+let g:netrw_dirhist_2='/root/ansible-tomcat-ubuntu/hosts'
+let g:netrw_dirhist_3='/root/ansible-tomcat-ubuntu/roles/tomcat7'
+let g:netrw_dirhist_4='/root/ansible-tomcat-ubuntu/roles'
+let g:netrw_dirhist_5='/root/ansible-tomcat-ubuntu/roles/tomcat8/tasks'
